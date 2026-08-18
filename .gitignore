@@ -1,0 +1,21 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment secrets
+.env
+
+# Chroma database
+chroma_db/
+
+# VS Code
+.vscode/
+
+# macOS
+.DS_Store
+
+# Local university documents
+data/
